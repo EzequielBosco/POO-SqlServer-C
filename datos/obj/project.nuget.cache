@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbqBizHo8uVC1tBSAo2y8js3E099jWFL9NhK/InI0QKwSmz7G50cX6vu5D7ukdHT/aS148ezHsjHhWV1YIllgw==",
+  "dgSpecHash": "LmdOQw+B7TU1FcC9MB1hPYvteruqKChr4MJ5g/XzAhEwYFfCUFHd23MeUemIM3objOhxpYIVj81/WvL0gmToqQ==",
   "success": true,
-  "projectFilePath": "D:\\Usuario\\1 Programacion\\ISTEA\\Desarrollo de software\\1ER año\\2DO CUATRI\\POO\\Practicas - Conexion DB C# - GITHUB\\datos\\datos.csproj",
+  "projectFilePath": "D:\\Usuario\\1 Programacion\\ISTEA\\Desarrollo de software\\1ER año ISTEA\\2DO CUATRI\\POO\\Practicas - Conexion DB C# - GITHUB\\datos\\datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\dotnetenv\\2.5.0\\dotnetenv.2.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.configuration\\1.1.2\\microsoft.extensions.configuration.1.1.2.nupkg.sha512",

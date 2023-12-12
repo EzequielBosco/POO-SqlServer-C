@@ -5221,11 +5221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuario\\1 Programacion\\ISTEA\\Desarrollo de software\\1ER año\\2DO CUATRI\\POO\\Practicas - Conexion DB C# - GITHUB\\datos\\datos.csproj",
+      "projectUniqueName": "d:\\Usuario\\1 Programacion\\ISTEA\\Desarrollo de software\\1ER año ISTEA\\2DO CUATRI\\POO\\Practicas - Conexion DB C# - GITHUB\\datos\\datos.csproj",
       "projectName": "datos",
-      "projectPath": "D:\\Usuario\\1 Programacion\\ISTEA\\Desarrollo de software\\1ER año\\2DO CUATRI\\POO\\Practicas - Conexion DB C# - GITHUB\\datos\\datos.csproj",
+      "projectPath": "d:\\Usuario\\1 Programacion\\ISTEA\\Desarrollo de software\\1ER año ISTEA\\2DO CUATRI\\POO\\Practicas - Conexion DB C# - GITHUB\\datos\\datos.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuario\\1 Programacion\\ISTEA\\Desarrollo de software\\1ER año\\2DO CUATRI\\POO\\Practicas - Conexion DB C# - GITHUB\\datos\\obj\\",
+      "outputPath": "d:\\Usuario\\1 Programacion\\ISTEA\\Desarrollo de software\\1ER año ISTEA\\2DO CUATRI\\POO\\Practicas - Conexion DB C# - GITHUB\\datos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5273,6 +5273,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
